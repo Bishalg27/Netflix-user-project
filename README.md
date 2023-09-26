@@ -5,15 +5,14 @@ This project focused on analyzing Netflix user data across different regions, sp
 
 # Dashboard
 
-                  
+																																		
+![Netflix user Dashboard](https://github.com/Bishalg27/Netflix-user-project/assets/107564589/4a9d6c40-3c3e-4e52-a2bd-dc1a1345d135)
 																																				
 																																				
 																																				
 																																				
 																																				
 																																				
-																																				
-											![Netflix user Dashboard_pages-to-jpg-0001](https://github.com/Bishalg27/Netflix-user-project/assets/107564589/5715b606-930b-453d-ae6f-5390ab0da440)
 																									
 																																				
 																																				
